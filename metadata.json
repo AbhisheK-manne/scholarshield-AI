@@ -1,0 +1,6 @@
+{
+  "name": "ScholarShield AI",
+  "description": "AI-Powered Fake Scholarship, Google Forms and Phishing Link Detector for students and researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
